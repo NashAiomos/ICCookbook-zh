@@ -21,5 +21,3 @@
 WeChat：NeutronStarPRO
 
 Discord：https://discord.gg/5Y8QPHvR
-
-联系作者（永久链接）：https://zur5z-byaaa-aaaag-aaxeq-cai.ic0.app/about
