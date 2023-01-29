@@ -1,4 +1,4 @@
-参考资料：
+## 参考资料：
 
 https://eprint.iacr.org/2016/199.pdf
 
@@ -24,7 +24,7 @@ https://medium.com/dfinity/chain-key-technology-one-public-key-for-the-internet-
 
 
 
-致谢：
+## 致谢：
 
 感谢 Dfinty 官方、 ICPL 、DoraHacks 、TinTinLand 社区，一部分早期视频资料是来自这些社区举办的 WorkShop 。
 
