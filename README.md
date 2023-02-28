@@ -4,6 +4,8 @@
 
 **项目正在快速开发中...** 之后会有英语版
 
+![image-20230228193625023](https://user-images.githubusercontent.com/72973293/221864533-82c2e5f6-32ec-41a8-a5d8-2d5490d744f5.png)
+
 <br>
 
 ### 为什么写这本书？
