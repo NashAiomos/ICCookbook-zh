@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/72973293/221864533-82c2e5f6-32ec-41a8-a5d8-2d5490d744f5.png" align="right" alt="DFINITY logo" width="270">
+
 # ICCookbook
 
 如果你只听说过 IC ，但一直忙于以太坊、波卡的项目，没有详细了解过 IC ，那你算来对[地方](1.了解IC/1.了解IC.md)了！
@@ -5,8 +7,6 @@
 如果你还不了解 Web3、区块链、比特币、IC ，没关系，从[这里](0.去中心化之旅/造梦家的冒险之旅.md)开始。听我向你娓娓道来加密发展史，火速入门 Web3 开发！
 
 **项目正在快速开发中...** 之后会有英语版
-
-![image-20230228193625023](https://user-images.githubusercontent.com/72973293/221864533-82c2e5f6-32ec-41a8-a5d8-2d5490d744f5.png)
 
 <br>
 
