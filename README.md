@@ -14,9 +14,11 @@ pull requests 规则：没什么规则 ~ 想把什么内容融合进来？尽管
 
 加入本书的开发者讨论群，勘误、修改、提出建议、共同为开源书贡献力量！
 
-WeChat：NeutronStarPRO
-
 Discord：https://discord.gg/5Y8QPHvR
+
+WeChat：
+
+<img src="https://user-images.githubusercontent.com/72973293/222877796-057d5916-9cb5-4cb4-9e8e-03ca92df6ac6.jpg" width="270">
 
 <br>
 
