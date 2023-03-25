@@ -26,6 +26,8 @@ pull requests 规则：没什么规则 ~ 想把什么内容融合进来？尽管
 
 Discord：https://discord.gg/zFUcxkH3
 
+Telegram: https://t.me/iccookbook
+
 WeChat：
 
 <img src="https://user-images.githubusercontent.com/72973293/222877796-057d5916-9cb5-4cb4-9e8e-03ca92df6ac6.jpg" width="270">
