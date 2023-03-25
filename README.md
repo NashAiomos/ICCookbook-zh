@@ -24,7 +24,7 @@ pull requests 规则：没什么规则 ~ 想把什么内容融合进来？尽管
 
 加入本书的开发者讨论群，勘误、修改、提出建议、共同为开源书贡献力量！
 
-Discord：https://discord.gg/5Y8QPHvR
+Discord：https://discord.gg/zFUcxkH3
 
 WeChat：
 
