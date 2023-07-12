@@ -6,9 +6,11 @@
 
 如果你还不了解 Web3、区块链、比特币、IC ，没关系，从[这里](0.去中心化之旅/造梦家的冒险之旅.md)开始。听我向你娓娓道来加密发展史，火速入门 Web3 开发！
 
-**~~项目正在快速开发中...~~** 项目已迁移至☞ [NeutronStarDAO](https://github.com/NeutronStarDAO) 
+**~~项目正在快速开发中...~~** 
 
-总进度  |========>·········································································|  --%
+## 项目已迁移至☞ [NeutronStarDAO](https://github.com/NeutronStarDAO) 
+
+总进度  |========================>·································································|  --%
 
 
 <br>
@@ -20,10 +22,6 @@ pull requests 规则：没什么规则 ~ 想把什么内容融合进来？尽管
 Discord：https://discord.gg/zFUcxkH3
 
 Telegram: https://t.me/iccookbook
-
-WeChat：
-
-<img src="https://user-images.githubusercontent.com/72973293/222877796-057d5916-9cb5-4cb4-9e8e-03ca92df6ac6.jpg" width="270">
 
 <br>
 
